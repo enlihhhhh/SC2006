@@ -1,3 +1,3 @@
 # SC2006
 
-Testing
+Test success
